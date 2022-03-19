@@ -1,0 +1,89 @@
+
+
+  GENAV (Generic Anti-Virus)
+  Version 1.02e
+
+  Dokumantasyon
+
+  Hazirlayan: Sedat Kapanoglu
+
+____________________
+GenAv'in Ozellikleri
+~~~~~~~~~~~~~~~~~~~~
+- Hizli virus tarama
+- Guvenli virus temizleme mekanizmasi
+- Etkin kullanim icin gelismis kullanici arabirimi
+- Text modu destegi
+
+__________________________
+Son version'da neler yeni?
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Version 1.00f'ten beri GenAv'da cok sey degisti, GenAv degismedi. Cesitli
+eklemeler ve duzeltmeler sunlardir:
+
+- Daha hizli arama yontemi
+- Daha guvenli temizleme mekanizmasi
+- Iki ayri kullanici arabirimi arasinda secenek: FatalVision/TurboVision
+- Daha cok virus
+- Tamamen Turkce destegi
+- Komut satiri parametreleri
+
+__________________________
+Komut satiri parametreleri
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+ /NOMEM  : GenAv'in yuklendiginde hafizayi kontrol etmesini engelle.
+ /TV     : GenAv'i TurboVision GUI'si ile calistirir.
+ /?      : Bu komut satiri parametrelerinin listesini verir.
+
+__________________________
+GenAv'in Tanidigi Virusler
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Adi         Turu           Aciklama
+----------- -------------- ----------------------------------------------------
+ATB         COM+EXE files  Overlay kontrolu yapmayan zararli bir virus
+Mirage      COM+EXE files  Cok iyi kodlanmis ve cok iyi zarar veren bir virus
+X1          COM+EXE files  Dosyalarin date/time'larini invalid yapiyor
+X2          COM+EXE files  Mirage variant'i fakat daha iyi kodlanmis
+X3          COM+EXE files  Bazi oyunlarin EXE'lerini silmek icin yazilmis
+Cascade1661 COM files      Ilginc bir virus
+Mumcu       COM files      EXE'leri read-only yapiyor.
+----------- -------------- ----------------------------------------------------
+
+Goruldugu gibi GenAv su anda 7 virus taniyor. Tabii bu viruslerin sayisi gun be
+gun artmakta. Yani 5 yil sonra 1,500 virus taniyacak.
+
+__________
+Gonderiler
+~~~~~~~~~~
+
+Program     :  Sedat Kapanoglu
+
+FatalVision :  Sedat Kapanoglu , Meric Sentunali
+
+ATB ve Mirage analizi: Meric Sentunali
+
+GenAv        Copyright (c) 1994,1995 Sedat Kapanoglu
+FatalVision  Copyright (c) 1993,1994 GENSYS Bilgisayar ve Elektronik
+TurboVision  Copyright (c) 1988,1994 Borland International
+
+
+________
+Tesekkur
+~~~~~~~~
+Asagidakilere cesitli katkilarindan dolayi tesekkur etmek istiyorum:
+
+* Virus numuneleri ve TV+FV fikri icin DiM-SOFT'tan Omur'e...
+* Cesitli virus doc'lari icin M. Taylan "Freak-Frog" Baysefer'e...
+* Verdigi moral destegi icin ES BBS'in SysOp'u Mehmet "BLoodY" Ozturk'e...
+* DOOM'un yaraticilari olan id Software'e...
+
+Ayrica:
+
+Beni bu virus tarayiciyi yazdiracak kadar kizdiran X1 virusunun yazarina! (Su
+dosyalarin date&time stamp'lerini sifirlayan virus)
+
+
+21st Aug 94 - 02:40 - Sedat Kapanoglu - written this
+02nd Jan 95 - 01:10 - Sedat Kapanoglu - updated
+
