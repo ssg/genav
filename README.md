@@ -9,7 +9,12 @@ It's not data-driven which means it contains ad-hoc code for
 each and every virus it detects which I think is 8 :) It wasn't the
 most sustainable AV project.
 
-![Screenshot](https://user-images.githubusercontent.com/241217/159136411-d7bb7ab9-9802-4df2-8ab5-ed906f114394.png)
+FatalVision UI:
+![FatalVision screenshot](https://user-images.githubusercontent.com/241217/159136411-d7bb7ab9-9802-4df2-8ab5-ed906f114394.png)
+
+TurboVision UI:
+![TurboVision screenshot](https://user-images.githubusercontent.com/241217/159136492-7eed3ad6-041c-4d41-97b5-dcd2f780631f.png)
+
 
 The source code contains three variants: 
 
