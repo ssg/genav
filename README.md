@@ -27,6 +27,22 @@ The source code contains three variants:
  - genav.pas: FatalVision based UI.
  - avenger.pas: Command-line (which I think was the way to go, but I was too 
  young to run away from the urge to code cool looking UIs)
+
+Detected viruses
+----------------
+Literal translation from the documentation:
+
+Name       | Type         |  Description
+-----------|--------------|----------------------------------------------------
+ATB        |COM+EXE files |A harmful virus that doesn't check for overlays
+Mirage     |COM+EXE files |A virus that is well-coded and well-harmful
+X1         |COM+EXE files |Makes the date/times of the files invalid
+X2         |COM+EXE files |Mirage variant but coded better
+X3         |COM+EXE files |Written for deleting EXE files of some games
+Cascade1661|COM files     |An interesting virus
+Mumcu      |COM files     |Makes EXEs read-only
+
+
  
 Why release the code?
 ---------------------
