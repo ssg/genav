@@ -10,7 +10,12 @@ each and every virus it detects which I think are 8 viruses in total :)
 It wasn't the most sustainable AV project.
 
 FatalVision UI:
-![FatalVision screenshot](https://user-images.githubusercontent.com/241217/159136411-d7bb7ab9-9802-4df2-8ab5-ed906f114394.png)
+![FatalVision screenshot](https://github.com/user-attachments/assets/70c13415-7e5a-4c3e-afb3-982c426022ee)
+
+FatalVision menu screenshot:
+![FatalVision menu](https://github.com/user-attachments/assets/e48fce31-1704-41e8-afad-d466c8292d83)
+
+
 
 TurboVision UI:
 ![TurboVision screenshot](https://user-images.githubusercontent.com/241217/159136492-7eed3ad6-041c-4d41-97b5-dcd2f780631f.png)
